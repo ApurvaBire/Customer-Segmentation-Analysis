@@ -2,13 +2,11 @@
   <img src="images/customer seg.jpeg" width="800"/>
 </p>
 
-# customer-segmentation-kmeans
-# 📊 Customer Segmentation Project
+# 📊 Customer Segmentation Analysis
 
 ## 📌 Project Overview
 
 This project performs customer segmentation using data analysis and machine learning techniques, followed by an interactive business dashboard for insight generation.
-
 The goal is to group customers based on their income and spending behavior to understand different purchasing patterns and support data-driven business decisions.
 
 The project combines:
