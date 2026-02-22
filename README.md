@@ -61,7 +61,7 @@ These features help analyze purchasing power and customer behavior.
 
 ---
 
-## 🤖 Machine Learning Analysis (Notebook)
+##  Machine Learning Analysis ( Notebook)
 
 Customer segmentation is performed using the **K-Means clustering algorithm**, an unsupervised learning method.
 
@@ -78,7 +78,6 @@ This analysis reveals natural groupings of customers based on income and spendin
 ---
 
 ## 📊 Business Dashboard (Power BI)
-
 The Power BI dashboard transforms analytical results into clear and interactive visual insights.
 
 ### Key Highlights
@@ -94,7 +93,6 @@ The dashboard enables stakeholders to quickly understand the customer base and m
 ---
 
 ## 💼 Business Applications
-
 This project demonstrates how customer segmentation can support:
 
 * Targeted marketing campaigns
@@ -104,8 +102,6 @@ This project demonstrates how customer segmentation can support:
 * Strategic planning
 
 ---
-
-## 🛠️ Tools & Technologies
 
 ## 🛠️ Tools & Technologies
 
@@ -138,7 +134,7 @@ This project demonstrates how customer segmentation can support:
 
 ## ✨ Project Outcome
 
-The project successfully converts raw customer data into meaningful segments and visual insights through a combination of machine learning and interactive dashboards.
+The project successfully converts raw customer data into meaningful segments and visual insights through a combination of machine learning and interactive dashboards. Identified distinct customer segments using K-Means clustering and built an interactive Power BI dashboard to generate actionable business insights for targeted marketing and revenue optimization.
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
