@@ -93,12 +93,6 @@ The dashboard enables stakeholders to quickly understand the customer base and m
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Customer Segmentation Dashboard](./Customer-Segmentation-Dashboard/Mall Customer Segmentation Dashboard img.jpeg)
-
----
-
 ## 💼 Business Applications
 
 This project demonstrates how customer segmentation can support:
@@ -113,20 +107,15 @@ This project demonstrates how customer segmentation can support:
 
 ## 🛠️ Tools & Technologies
 
-**Data Analysis & ML**
+## 🛠️ Tools & Technologies
 
-* Python
-* pandas, numpy
-* matplotlib, seaborn
-* scikit-learn
-
-**Visualization**
-
-* Power BI
-
-**Development Environment**
-
-* Jupyter Notebook
+| Category                    | Tool / Technology                                |
+| --------------------------- | ------------------------------------------------ |
+| **Programming Language**    | Python                                           |
+| **Python Libraries**        | pandas, numpy, matplotlib, seaborn, scikit-learn |
+| **Data Source / Handling**  | Excel                                            |
+| **Visualization Tool**      | Power BI                                         |
+| **Development Environment** | Jupyter Notebook                                 |
 
 ---
 
