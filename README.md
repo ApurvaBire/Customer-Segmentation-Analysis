@@ -97,8 +97,7 @@ The dashboard enables stakeholders to quickly understand the customer base and m
 
 ## 🖼️ Dashboard Preview
 
-![Customer Segmentation Dashboard](Dashboard/Mall Customer Segmentation Dashboard img.jpeg)
-
+![Customer Segmentation Dashboard](Dashboard/Mall%20Customer%20Segmentation%20Dashboard%20img.jpeg)
 ---
 
 ## 💼 Business Applications
